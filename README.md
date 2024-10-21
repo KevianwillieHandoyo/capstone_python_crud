@@ -15,7 +15,7 @@ This project caters to the health industry, specifically addressing the need to 
 
 **Target Users:**
 
-This application is designed for inpatient administrators, doctors, and nurses within the organization to facilitate their data collecting and treatment related to inpatient.
+This application is designed for patient administrators, doctors, and nurses within the organization to facilitate their data collecting and treatment related to inpatient.
 
 ## Features
 

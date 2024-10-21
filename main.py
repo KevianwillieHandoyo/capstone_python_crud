@@ -1,5 +1,5 @@
 # ===================================
-# Capstone Project - Hospital Inpatient Data
+# Capstone Project - Hospital Patient Data
 # ===================================
 # Developed by Kevianwillie Handoyo
 # JCDS - 0412
