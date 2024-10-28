@@ -61,12 +61,12 @@ This application is designed for patient administrators, doctors, and nurses wit
 
 ## Data Model
 This project utilizes a list to represent inpatient data. The following fields are stored:
-   * ID: String - Description of the field's purpose in the business context.
-   * Nama: String - Description of the field's purpose in the business context.
-   * Umur: Int - Description of the field's purpose in the business context.
-   * Tanggal Masuk RS: String - Description of the field's purpose in the business context.
-   * Nomor Kamar: Int - Description of the field's purpose in the business context.
-   * Status: String - Description of the field's purpose in the business context.
+   * ID: String - Unique patient ID.
+   * Nama: String - The name of the patient.
+   * Umur: Int - The age of the patient.
+   * Tanggal Masuk RS: String - Date when the patient is admitted to the hospital.
+   * Nomor Kamar: Int - The room number where the patient is assigned in.
+   * Status: String - The health status of the patient to determine prioritization of treatment.
 
 ## Contributing
 We welcome contributions to this project! Please feel free to open a pull request, sent to kevianwillie.h@gmail.com or submit an issue if you encounter any problems or have suggestions for improvements.
